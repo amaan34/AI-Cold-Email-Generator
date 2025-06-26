@@ -1,0 +1,47 @@
+Setup UI for the Chatbot (Phase 1): 
+1. Chatbot
+2. Streamlit
+3. Usage from the UI
+
+Connect to LLM (Phase 2):
+1. Langchain
+2. Groq
+
+Integrate RAG (Phase 3):
+1. Upload document(s)
+2. Vector Embeddings
+3. RAG (Retrieval Augmented Generation)
+
+RAG (Retrieval Augmented Generation)
+
+Basics : 
+1. Models are trained up to a limit
+2. No proprietary information access
+3. Answers from specific sources
+4. Reduce Hallucinations
+
+Vector Embeddings : 
+6. Numerical representations of words or phrases
+7. Capture meanings and relationships
+8. Helps machine learning models understand text effectively
+
+Improvement Potential/Next Steps
+
+1. Add authentication in the UI
+2. Make use of upload document functionality
+3. Add multiple documents and embed them together
+4. Add Unit testing of RAG applications
+5. Connect the Chatbot to access the internet as well in addition to the file
+
+Summary 
+
+1. Modern AI Chatbot for documents
+2. Modular 3 Phased Chatbot Project
+3. Worked with : 
+    a. Streamlit
+    b. Langchain
+    c. RAG
+    d. Groq
+    e. Vector Embeddings
+    f. End to End RAG Pipeline
+4. Future Possibilities
