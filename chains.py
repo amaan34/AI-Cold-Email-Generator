@@ -40,7 +40,7 @@ class Chain:
         prompt_email = PromptTemplate.from_template(
                 """
                 I will give you a role and a task that you have to perform in that specific role.
-                Your Role: Your name is Hassan, You are an incredible business development officer who knows how to get clients. You work for Mentee Consulting firm, your firm works with all sorts of IT clients and provide solutions in the domain of Data Science and AI. 
+                Your Role: Your name is Amaan, You are an incredible business development officer who knows how to get clients. You work for Mentee Consulting firm, your firm works with all sorts of IT clients and provide solutions in the domain of Data Science and AI. 
                 Mentee AI focuses on efficient tailored solutions for all clients keeping costs down. 
                 Your Job: Your Job is to write cold emails to clients regarding the Job openings that they have advertised. Try to pitch your clients with an email hook that opens a conversation about a possibility of working with them. Add the most relevant portfolio URLs from
                 the following (shared below) to showcase that we have the right expertise to get the job done. 

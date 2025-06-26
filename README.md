@@ -1,5 +1,7 @@
 # AI Cold Email Generator
 
+![Architecture](Architecture.png)
+
 ## Introduction
 
 The **AI Cold Email Generator** is an intelligent, automated tool designed to streamline and personalize the process of reaching out to potential clients. By leveraging advanced web scraping, natural language processing, and portfolio matching, this application crafts compelling cold emails tailored to job postings and business opportunities. It empowers consulting firms and freelancers to efficiently showcase relevant expertise, increasing the likelihood of successful client engagement.
